@@ -1,4 +1,4 @@
-package org.jmxbean;
+package org.example;
 
 /**
  * Hello world!
